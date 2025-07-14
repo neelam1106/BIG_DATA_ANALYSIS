@@ -27,3 +27,7 @@ The final output is a Google Colab notebook with all the code and a summary of k
 
 This task hepled me understanding how data analytics thinks and also how to handle the datasets to draw useful
 and meaningful insights.
+
+Output:
+
+[DataAnalytics_1.ipynb - Colab.pdf](https://github.com/user-attachments/files/21217853/DataAnalytics_1.ipynb.-.Colab.pdf)
